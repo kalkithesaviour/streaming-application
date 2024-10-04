@@ -1,3 +1,22 @@
+## Tech Stack
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+- Flowbite React
+
+### Backend
+- Spring Boot
+- Spring Data JPA
+- MySQL
+
+### Features:
+- Video upload with metadata
+- Asynchronous video processing using FFmpeg
+- HLS-based video streaming
+- Responsive video player
+
 <img width="958" alt="Screenshot 2024-10-04 212225" src="https://github.com/user-attachments/assets/6d454f9a-10de-45fc-a345-ecd639a540a6">
 
 
