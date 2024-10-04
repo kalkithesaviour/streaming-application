@@ -1,3 +1,5 @@
+Supports processing video files into HLS (HTTP Live Streaming) segments, storing video metadata in a database, and serving the videos to clients via API endpoints.
+
 ## Tech Stack
 
 ### Frontend
@@ -9,6 +11,7 @@
 ### Backend
 - Spring Boot
 - Spring Data JPA
+- SLF4J logging
 - MySQL
 
 ### Features:
