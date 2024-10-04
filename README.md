@@ -1,5 +1,5 @@
 # Video Streaming Application
-Spring boot & React app that supports processing video files into HLS (HTTP Live Streaming) segments, storing video metadata in a database, and serving the videos to clients via API endpoints.
+Spring Boot & React app that supports processing video files into HLS (HTTP Live Streaming) segments, storing video metadata in a database, and serving the videos to clients via API endpoints.
 
 ## Tech Stack
 
