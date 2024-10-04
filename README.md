@@ -1,4 +1,4 @@
-# Streaming Application
+# Video Streaming Application
 Supports processing video files into HLS (HTTP Live Streaming) segments, storing video metadata in a database, and serving the videos to clients via API endpoints.
 
 ## Tech Stack
