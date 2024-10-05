@@ -11,8 +11,8 @@ Spring Boot & React app that supports processing video files into HLS (HTTP Live
 ### Backend
 - Spring Boot
 - Spring Data JPA
-- SLF4J logging
 - MySQL
+- SLF4J logging
 
 ### Features:
 - Video upload with metadata
