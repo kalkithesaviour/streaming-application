@@ -4,10 +4,9 @@ Spring Boot & React app that supports processing video files into HLS (HTTP Live
 ## Tech Stack
 
 ### Frontend
+- JavaScript 
 - React
-- Vite
 - Tailwind CSS
-- Flowbite React
 
 ### Backend
 - Spring Boot
